@@ -1,0 +1,29 @@
+{
+  "name": "open-library-api",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "Unofficial typescript api library for open-library",
+  "homepage": "https://github.com/epsilonethan/open-library-api#readme",
+  "bugs": {
+    "url": "https://github.com/epsilonethan/open-library-api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epsilonethan/open-library-api.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "Apache-2.0",
+  "author": "epsilonethan",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "test",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "typescript": "^5.8.2"
+  }
+}
