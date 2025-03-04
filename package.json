@@ -1,15 +1,15 @@
 {
-  "name": "open-library-api",
+  "name": "open-library-js",
   "version": "0.0.1",
   "type": "module",
   "description": "Unofficial typescript api library for open-library",
-  "homepage": "https://github.com/epsilonethan/open-library-api#readme",
+  "homepage": "https://github.com/epsilonethan/open-library-js#readme",
   "bugs": {
-    "url": "https://github.com/epsilonethan/open-library-api/issues"
+    "url": "https://github.com/epsilonethan/open-library-js/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/epsilonethan/open-library-api.git"
+    "url": "git+https://github.com/epsilonethan/open-library-js.git"
   },
   "publishConfig": {
     "access": "public"
